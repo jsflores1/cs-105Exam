@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Session02-Ex-Variables",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "Session02-Ex-Variables"
+        },
+        {
+            "type": "java",
+            "name": "Session02-Ex-CreatingObjects",
+            "request": "launch",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "Session02-Ex-CreatingObjects"
+        }
+    ]
+}
