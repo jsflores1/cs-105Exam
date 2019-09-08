@@ -4,24 +4,10 @@
 			"path": "."
 		}
 	],
-	"settings": {},
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	},
 	"launch": {
-		"configurations": [
-			{
-				"type": "java",
-				"name": "Session02-Ex-Variables",
-				"request": "launch",
-				"console": "externalTerminal",
-				"mainClass": "edu.sbcc.cs105.Program",
-				"projectName": "Session02-Ex-Variables"
-			},
-			{
-				"type": "java",
-				"name": "Session02-Ex-CreatingObjects",
-				"request": "launch",
-				"mainClass": "edu.sbcc.cs105.Program",
-				"projectName": "Session02-Ex-CreatingObjects"
-			}
-		]
+		"configurations": []
 	}
 }
