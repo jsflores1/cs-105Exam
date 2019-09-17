@@ -4,9 +4,20 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
-
-
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program",
+            "request": "launch",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105_Session04_Ex_BigNumbers"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program",
+            "request": "launch",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105_Session04_Enumerations"
+        },
         {
             "type": "java",
             "name": "CS105-Session02-Ex-Variables",
@@ -61,6 +72,62 @@
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
             "projectName": "CS105-Session03-Ex-ObjectOrientedProgram"
+        },       
+        {
+            "type": "java",
+            "name": "CS105-Session04-Ex-BigNumbers",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session04-Ex-BigNumbers"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session04-Ex-CastingDataTypes",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session04-Ex-CastingDataTypes"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session04-Ex-Enumerations",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session04-Ex-Enumerations"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session04-Ex-FloatingPointComparisons",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session04-Ex-FloatingPointComparisons"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session04-Ex-MultipleClasses",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session04-Ex-MultipleClasses"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session04-Ex-Scanner",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session04-Ex-Scanner"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session04-Ex-StringMethods",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session04-Ex-StringMethods"
         }
     ]
 }
