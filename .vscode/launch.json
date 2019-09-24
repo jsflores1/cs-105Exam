@@ -8,6 +8,12 @@
             "type": "java",
             "name": "CodeLens (Launch) - Program",
             "request": "launch",
+            "mainClass": "edu.sbcc.cs105.Program"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program",
+            "request": "launch",
             "mainClass": "edu.sbcc.cs105.Program",
             "projectName": "CS105_Session04_Ex_BigNumbers"
         },
@@ -72,7 +78,7 @@
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
             "projectName": "CS105-Session03-Ex-ObjectOrientedProgram"
-        },       
+        },
         {
             "type": "java",
             "name": "CS105-Session04-Ex-BigNumbers",
@@ -128,6 +134,47 @@
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
             "projectName": "CS105-Session04-Ex-StringMethods"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session05-Ex-ComparingStrings",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-ComparingStrings"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session05-Ex-SimpleIf",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-SimpleIf"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session05-Ex-MultipleParallelIf",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-MultipleParallelIf"
+        }
+        ,
+        {
+            "type": "java",
+            "name": "CS105-Session05-Ex-NullTests",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-NullTests"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session05-Ex-Switch",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-Switch"
         }
     ]
 }
