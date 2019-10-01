@@ -175,6 +175,47 @@
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
             "projectName": "CS105-Session05-Ex-Switch"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session06-Ex-Associations",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-Switch"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session06-Ex-BooleanStatements",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-Switch"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session06-Ex-Enumeration",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-Switch"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session06-Ex-NestedBranching",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-Switch"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session06-Ex-ValidatingUserInput",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-Switch"
         }
+        
     ]
 }
