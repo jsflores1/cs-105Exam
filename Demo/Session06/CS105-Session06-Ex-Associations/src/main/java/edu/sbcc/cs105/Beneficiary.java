@@ -28,7 +28,7 @@ public class Beneficiary {
         this.name = name;
     }
 
-    private void addAssociatedPolicies(Policy policy){
+    public void addAssociatedPolicies(Policy policy){
         associatedPolicies.add(policy);
     }
 

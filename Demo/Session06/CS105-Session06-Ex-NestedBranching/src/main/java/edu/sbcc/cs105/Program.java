@@ -1,8 +1,5 @@
 package edu.sbcc.cs105;
 
-import java.util.InputMismatchException;
-import java.util.Scanner;
-
 /**
  * 
  * @author remote

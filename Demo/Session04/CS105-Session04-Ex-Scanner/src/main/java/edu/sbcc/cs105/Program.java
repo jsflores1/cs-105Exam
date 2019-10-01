@@ -42,6 +42,8 @@ public class Program {
 		System.out.println(s2.next());
 		System.out.println(s2.next());
 		System.out.println(s2.next());
+
+		s2.close();
 	}
 	
 	public static void DoEx3() {

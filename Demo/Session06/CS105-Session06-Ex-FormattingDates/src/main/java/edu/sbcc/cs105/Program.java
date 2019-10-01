@@ -2,7 +2,6 @@ package edu.sbcc.cs105;
 
 import java.text.SimpleDateFormat;
 import java.util.*;
-import java.util.Scanner;
 
 public class Program {
 

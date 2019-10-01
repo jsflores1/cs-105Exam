@@ -6,23 +6,14 @@ import java.util.Date;
 public class Program {
 
 	public static void main(String[] args) {
-
-		Calendar cal = Calendar.getInstance();
-		cal.set(Calendar.YEAR, 1966);
-		cal.set(Calendar.MONTH, Calendar.JANUARY);
-		cal.set(Calendar.DAY_OF_MONTH, 1);
-		Date birthDate = cal.getTime();
-				
-		cal.set(Calendar.YEAR, 1996);
-		cal.set(Calendar.MONTH, Calendar.JUNE);
-		cal.set(Calendar.DAY_OF_MONTH, 30);
-		Date hireDate = cal.getTime();
-		
-		//Employee e = new Employee("James", birthDate, hireDate, EmploymentTrack.Career );
 		
 		Employee e;
 		
 		e = getAdam();
+		//e = getHans();
+		printEmployee(e);
+
+		e = getHans();
 		//e = getHans();
 		printEmployee(e);
 

@@ -8,6 +8,12 @@
             "type": "java",
             "name": "CodeLens (Launch) - Program",
             "request": "launch",
+            "mainClass": "main.java.edu.sbcc.cs105.Program"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program",
+            "request": "launch",
             "mainClass": "edu.sbcc.cs105.Program"
         },
         {
@@ -158,8 +164,7 @@
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
             "projectName": "CS105-Session05-Ex-MultipleParallelIf"
-        }
-        ,
+        },
         {
             "type": "java",
             "name": "CS105-Session05-Ex-NullTests",
@@ -182,7 +187,7 @@
             "request": "launch",
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
-            "projectName": "CS105-Session05-Ex-Switch"
+            "projectName": "CS105-Session06-Ex-Associations"
         },
         {
             "type": "java",
@@ -190,7 +195,7 @@
             "request": "launch",
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
-            "projectName": "CS105-Session05-Ex-Switch"
+            "projectName": "CS105-Session06-Ex-BooleanStatements"
         },
         {
             "type": "java",
@@ -198,7 +203,15 @@
             "request": "launch",
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
-            "projectName": "CS105-Session05-Ex-Switch"
+            "projectName": "CS105-Session06-Ex-Enumeration"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session06-Ex-FormattingDates",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session06-Ex-FormattingDates"
         },
         {
             "type": "java",
@@ -206,15 +219,23 @@
             "request": "launch",
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
-            "projectName": "CS105-Session05-Ex-Switch"
-        },
+            "projectName": "CS105-Session06-Ex-NestedBranching"
+        },        
         {
             "type": "java",
             "name": "CS105-Session06-Ex-ValidatingUserInput",
             "request": "launch",
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
-            "projectName": "CS105-Session05-Ex-Switch"
+            "projectName": "CS105-Session06-Ex-ValidatingUserInput"
+        },        
+        {
+            "type": "java",
+            "name": "CS105-Midterm01-Student-EzTax",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Midterm01-Student-EzTax"
         }
         
     ]
