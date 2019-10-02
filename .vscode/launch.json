@@ -175,6 +175,14 @@
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
             "projectName": "CS105-Session05-Ex-Switch"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session05-Ex-Scanner",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session05-Ex-Scanner"
         }
     ]
 }
