@@ -16,6 +16,16 @@ The Retirement calculator should have the following methods
 - **getAnnualRetirementBenefit** - returns the annual retirement benefit based upon the retirement compensation formula
 - **getRetirementPercentage** - returns the % of their employment income the employee will receive in retirement - This is the Age Factor * Number of Years of Service
 
+**Special Requirements**
+
+- Use a parallel if statement in the age factor calculation
+
+- Use a single if condition to handle age between 55 and 60 and calculate the factor based upon the a base of 1.4 and use the regular increment between years to calculate the increase in age factor
+
+- Below 55 should return zero
+
+  
+
 ## Example
 
 Joe Gaucho is retiring from the State of Confusion's Teachers Retirement System after 30 years of service. He is 59 years old.  He makes $90,600 / year. He is in the 2% at age 60 plan
