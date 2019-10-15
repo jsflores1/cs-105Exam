@@ -183,13 +183,14 @@
         },
         {
             "type": "java",
-<<<<<<< HEAD
             "name": "CS105-Session05-Ex-Scanner",
             "request": "launch",
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
             "projectName": "CS105-Session05-Ex-Scanner"
-=======
+        },
+        {
+            "type": "java",
             "name": "CS105-Session06-Ex-Associations",
             "request": "launch",
             "console": "externalTerminal",
@@ -243,8 +244,86 @@
             "console": "externalTerminal",
             "mainClass": "edu.sbcc.cs105.Program",
             "projectName": "CS105-Midterm01-Student-EzTax"
->>>>>>> 2d20f23eae99117ed890568c4b30904e986d66e7
+        },        
+        {
+            "type": "java",
+            "name": "CS105-Session07-Ex-ArrayList01",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session07-Ex-ArrayList01"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session07-Ex-ArrayList02",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session07-Ex-ArrayList02"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session07-Ex-ArrayList03",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session07-Ex-ArrayList03"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session07-Ex-ArrayList04",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session07-Ex-ArrayList04"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session07-Ex-ArrayList05",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session07-Ex-ArrayList05"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session07-Ex-ArrayList06",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session07-Ex-ArrayList06"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session07-Ex-ArrayList07",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session07-Ex-ArrayList07"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session07-Ex-ArrayList08",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session07-Ex-ArrayList08"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session07-Ex-DoLoop",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session07-Ex-DoLoop"
+        },
+        {
+            "type": "java",
+            "name": "CS105-Session07-Ex-WhileLoop",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": "edu.sbcc.cs105.Program",
+            "projectName": "CS105-Session07-Ex-WhileLoop"
         }
-        
     ]
 }
