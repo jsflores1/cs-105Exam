@@ -12,6 +12,8 @@ public class Program {
 
         ArrayList<String> list = new ArrayList<String>();
 
+       
+
         // Add some words
         list.add("hello");
         list.add("thing");
